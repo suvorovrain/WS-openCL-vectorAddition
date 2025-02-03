@@ -1,4 +1,4 @@
-#include "/usr/include/CL/cl.h"
+#include <CL/cl.h>
 #include <stdio.h>
 #include <stdlib.h>
 
