@@ -1,1 +1,1 @@
-Simple example of vector addition on C with OpenCL
+Simple example of vector addition on C with OpenCL (Intel SDK)
